@@ -1,0 +1,40 @@
+#trainImg {
+    height: 250px;
+    background-color: lightblue;
+    background-size: cover;
+    background-image: url('../images/shinkansen2.jpg');
+    background-repeat: no-repeat;
+}
+
+.tableHead {
+    height: 40px;
+    background-color: blue;
+    border: solid 2px black;
+    color: white;
+    margin-top: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.col-head {
+    background-color: lightblue;
+}
+
+
+.table {
+    border: solid 2px white;
+    border-radius: 10px;
+}
+
+.addTrainHeading {
+    background-color: blue;
+    height: 40px;
+    color: white;
+    padding: 10px 0 5px 10px;
+}
+
+i {
+    margin-right: 10px;
+}
